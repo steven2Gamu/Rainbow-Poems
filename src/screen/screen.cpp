@@ -1,5 +1,5 @@
 #include "screen.h"
-
+//Ex 4.2
 // Screen's constructor
 Screen::Screen(string::size_type height, string::size_type width, char bkground):
 	height_{height},// initialises height_ with height
